@@ -34,13 +34,13 @@ I have pioneered dynamic system models, feedback-based governance frameworks, an
 ## 🎓 My Foundations
 
 - **PhD, Rijksuniversiteit Groningen (1994)**  
-  — Systems theories for actor-based modeling, system life-cycle, and reasoning from evidence.
+  - Systems theories that gave rise to actor-based modeling and system life-cycle modeling. I also formalized the idea that models can be reasoned from evidence. The thesis also presented four systems theories as reasoning from propositions and theorems,
 
 - **Developer, Designer**  
-  — Expert systems for policy formulation.
-  — Logic Programming Tools evolving toward AI-powered reasoning.
-  — Systems modeling and simulation.
-  — System Intelligence (SI) to build the capacity to reason structurally about causality, feedback, and dynamic behavior in complex systems. 
+  - Expert systems for policy formulation.
+  - Logic Programming Tools evolving toward AI-powered reasoning.
+  - Systems modeling and simulation.
+  - System Intelligence (SI) to build the capacity to reason structurally about causality, feedback, and dynamic behavior in complex systems. 
 
 ---
 
